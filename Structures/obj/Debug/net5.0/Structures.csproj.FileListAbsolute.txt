@@ -1,0 +1,15 @@
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/Structures/obj/Debug/net5.0/Structures.csprojAssemblyReference.cache
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/Structures/obj/Debug/net5.0/Structures.GeneratedMSBuildEditorConfig.editorconfig
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/Structures/obj/Debug/net5.0/Structures.AssemblyInfoInputs.cache
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/Structures/obj/Debug/net5.0/Structures.AssemblyInfo.cs
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/Structures/obj/Debug/net5.0/Structures.csproj.CoreCompileInputs.cache
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/Structures/bin/Debug/net5.0/Structures.deps.json
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/Structures/bin/Debug/net5.0/Structures.runtimeconfig.json
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/Structures/bin/Debug/net5.0/Structures.runtimeconfig.dev.json
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/Structures/bin/Debug/net5.0/Structures.dll
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/Structures/bin/Debug/net5.0/ref/Structures.dll
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/Structures/bin/Debug/net5.0/Structures.pdb
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/Structures/obj/Debug/net5.0/Structures.dll
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/Structures/obj/Debug/net5.0/ref/Structures.dll
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/Structures/obj/Debug/net5.0/Structures.pdb
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/Structures/obj/Debug/net5.0/Structures.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/Inheritance/obj/Debug/net5.0/Inheritance.csprojAssemblyReference.cache
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/Inheritance/obj/Debug/net5.0/Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/Inheritance/obj/Debug/net5.0/Inheritance.AssemblyInfoInputs.cache
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/Inheritance/obj/Debug/net5.0/Inheritance.AssemblyInfo.cs
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/Inheritance/obj/Debug/net5.0/Inheritance.csproj.CoreCompileInputs.cache
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/Inheritance/bin/Debug/net5.0/Inheritance.deps.json
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/Inheritance/bin/Debug/net5.0/Inheritance.runtimeconfig.json
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/Inheritance/bin/Debug/net5.0/Inheritance.runtimeconfig.dev.json
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/Inheritance/bin/Debug/net5.0/Inheritance.dll
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/Inheritance/bin/Debug/net5.0/ref/Inheritance.dll
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/Inheritance/bin/Debug/net5.0/Inheritance.pdb
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/Inheritance/obj/Debug/net5.0/Inheritance.dll
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/Inheritance/obj/Debug/net5.0/ref/Inheritance.dll
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/Inheritance/obj/Debug/net5.0/Inheritance.pdb
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/Inheritance/obj/Debug/net5.0/Inheritance.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/PreProcessorDirectives/bin/Debug/net5.0/PreProcessorDirectives.deps.json
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/PreProcessorDirectives/bin/Debug/net5.0/PreProcessorDirectives.runtimeconfig.json
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/PreProcessorDirectives/bin/Debug/net5.0/PreProcessorDirectives.runtimeconfig.dev.json
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/PreProcessorDirectives/bin/Debug/net5.0/PreProcessorDirectives.dll
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/PreProcessorDirectives/bin/Debug/net5.0/ref/PreProcessorDirectives.dll
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/PreProcessorDirectives/bin/Debug/net5.0/PreProcessorDirectives.pdb
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/PreProcessorDirectives/obj/Debug/net5.0/PreProcessorDirectives.csprojAssemblyReference.cache
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/PreProcessorDirectives/obj/Debug/net5.0/PreProcessorDirectives.GeneratedMSBuildEditorConfig.editorconfig
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/PreProcessorDirectives/obj/Debug/net5.0/PreProcessorDirectives.AssemblyInfoInputs.cache
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/PreProcessorDirectives/obj/Debug/net5.0/PreProcessorDirectives.AssemblyInfo.cs
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/PreProcessorDirectives/obj/Debug/net5.0/PreProcessorDirectives.csproj.CoreCompileInputs.cache
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/PreProcessorDirectives/obj/Debug/net5.0/PreProcessorDirectives.dll
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/PreProcessorDirectives/obj/Debug/net5.0/ref/PreProcessorDirectives.dll
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/PreProcessorDirectives/obj/Debug/net5.0/PreProcessorDirectives.pdb
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/PreProcessorDirectives/obj/Debug/net5.0/PreProcessorDirectives.genruntimeconfig.cache

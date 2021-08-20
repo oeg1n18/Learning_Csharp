@@ -1,0 +1,15 @@
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/NameSpaces/bin/Debug/net5.0/NameSpaces.deps.json
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/NameSpaces/bin/Debug/net5.0/NameSpaces.runtimeconfig.json
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/NameSpaces/bin/Debug/net5.0/NameSpaces.runtimeconfig.dev.json
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/NameSpaces/bin/Debug/net5.0/NameSpaces.dll
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/NameSpaces/bin/Debug/net5.0/ref/NameSpaces.dll
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/NameSpaces/bin/Debug/net5.0/NameSpaces.pdb
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/NameSpaces/obj/Debug/net5.0/NameSpaces.csprojAssemblyReference.cache
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/NameSpaces/obj/Debug/net5.0/NameSpaces.GeneratedMSBuildEditorConfig.editorconfig
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/NameSpaces/obj/Debug/net5.0/NameSpaces.AssemblyInfoInputs.cache
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/NameSpaces/obj/Debug/net5.0/NameSpaces.AssemblyInfo.cs
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/NameSpaces/obj/Debug/net5.0/NameSpaces.csproj.CoreCompileInputs.cache
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/NameSpaces/obj/Debug/net5.0/NameSpaces.dll
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/NameSpaces/obj/Debug/net5.0/ref/NameSpaces.dll
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/NameSpaces/obj/Debug/net5.0/NameSpaces.pdb
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/NameSpaces/obj/Debug/net5.0/NameSpaces.genruntimeconfig.cache

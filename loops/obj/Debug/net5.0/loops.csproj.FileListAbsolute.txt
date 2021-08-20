@@ -1,0 +1,15 @@
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/loops/bin/Debug/net5.0/loops.deps.json
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/loops/bin/Debug/net5.0/loops.runtimeconfig.json
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/loops/bin/Debug/net5.0/loops.runtimeconfig.dev.json
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/loops/bin/Debug/net5.0/loops.dll
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/loops/bin/Debug/net5.0/ref/loops.dll
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/loops/bin/Debug/net5.0/loops.pdb
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/loops/obj/Debug/net5.0/loops.csprojAssemblyReference.cache
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/loops/obj/Debug/net5.0/loops.GeneratedMSBuildEditorConfig.editorconfig
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/loops/obj/Debug/net5.0/loops.AssemblyInfoInputs.cache
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/loops/obj/Debug/net5.0/loops.AssemblyInfo.cs
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/loops/obj/Debug/net5.0/loops.csproj.CoreCompileInputs.cache
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/loops/obj/Debug/net5.0/loops.dll
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/loops/obj/Debug/net5.0/ref/loops.dll
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/loops/obj/Debug/net5.0/loops.pdb
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/loops/obj/Debug/net5.0/loops.genruntimeconfig.cache

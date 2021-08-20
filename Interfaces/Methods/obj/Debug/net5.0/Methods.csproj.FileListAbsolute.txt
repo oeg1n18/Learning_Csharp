@@ -1,0 +1,15 @@
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/Methods/bin/Debug/net5.0/Methods.deps.json
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/Methods/bin/Debug/net5.0/Methods.runtimeconfig.json
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/Methods/bin/Debug/net5.0/Methods.runtimeconfig.dev.json
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/Methods/bin/Debug/net5.0/Methods.dll
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/Methods/bin/Debug/net5.0/ref/Methods.dll
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/Methods/bin/Debug/net5.0/Methods.pdb
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/Methods/obj/Debug/net5.0/Methods.csprojAssemblyReference.cache
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/Methods/obj/Debug/net5.0/Methods.GeneratedMSBuildEditorConfig.editorconfig
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/Methods/obj/Debug/net5.0/Methods.AssemblyInfoInputs.cache
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/Methods/obj/Debug/net5.0/Methods.AssemblyInfo.cs
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/Methods/obj/Debug/net5.0/Methods.csproj.CoreCompileInputs.cache
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/Methods/obj/Debug/net5.0/Methods.dll
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/Methods/obj/Debug/net5.0/ref/Methods.dll
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/Methods/obj/Debug/net5.0/Methods.pdb
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/Methods/obj/Debug/net5.0/Methods.genruntimeconfig.cache

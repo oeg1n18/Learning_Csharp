@@ -1,0 +1,15 @@
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/Operator_Overloading/obj/Debug/net5.0/Operator_Overloading.csprojAssemblyReference.cache
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/Operator_Overloading/obj/Debug/net5.0/Operator_Overloading.GeneratedMSBuildEditorConfig.editorconfig
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/Operator_Overloading/obj/Debug/net5.0/Operator_Overloading.AssemblyInfoInputs.cache
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/Operator_Overloading/obj/Debug/net5.0/Operator_Overloading.AssemblyInfo.cs
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/Operator_Overloading/obj/Debug/net5.0/Operator_Overloading.csproj.CoreCompileInputs.cache
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/Operator_Overloading/bin/Debug/net5.0/Operator_Overloading.deps.json
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/Operator_Overloading/bin/Debug/net5.0/Operator_Overloading.runtimeconfig.json
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/Operator_Overloading/bin/Debug/net5.0/Operator_Overloading.runtimeconfig.dev.json
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/Operator_Overloading/bin/Debug/net5.0/Operator_Overloading.dll
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/Operator_Overloading/bin/Debug/net5.0/ref/Operator_Overloading.dll
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/Operator_Overloading/bin/Debug/net5.0/Operator_Overloading.pdb
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/Operator_Overloading/obj/Debug/net5.0/Operator_Overloading.dll
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/Operator_Overloading/obj/Debug/net5.0/ref/Operator_Overloading.dll
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/Operator_Overloading/obj/Debug/net5.0/Operator_Overloading.pdb
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/Operator_Overloading/obj/Debug/net5.0/Operator_Overloading.genruntimeconfig.cache

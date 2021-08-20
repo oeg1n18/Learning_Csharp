@@ -1,0 +1,15 @@
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/RegularExpressions/obj/Debug/net5.0/RegularExpressions.csprojAssemblyReference.cache
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/RegularExpressions/obj/Debug/net5.0/RegularExpressions.GeneratedMSBuildEditorConfig.editorconfig
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/RegularExpressions/obj/Debug/net5.0/RegularExpressions.AssemblyInfoInputs.cache
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/RegularExpressions/obj/Debug/net5.0/RegularExpressions.AssemblyInfo.cs
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/RegularExpressions/obj/Debug/net5.0/RegularExpressions.csproj.CoreCompileInputs.cache
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/RegularExpressions/bin/Debug/net5.0/RegularExpressions.deps.json
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/RegularExpressions/bin/Debug/net5.0/RegularExpressions.runtimeconfig.json
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/RegularExpressions/bin/Debug/net5.0/RegularExpressions.runtimeconfig.dev.json
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/RegularExpressions/bin/Debug/net5.0/RegularExpressions.dll
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/RegularExpressions/bin/Debug/net5.0/ref/RegularExpressions.dll
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/RegularExpressions/bin/Debug/net5.0/RegularExpressions.pdb
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/RegularExpressions/obj/Debug/net5.0/RegularExpressions.dll
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/RegularExpressions/obj/Debug/net5.0/ref/RegularExpressions.dll
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/RegularExpressions/obj/Debug/net5.0/RegularExpressions.pdb
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/RegularExpressions/obj/Debug/net5.0/RegularExpressions.genruntimeconfig.cache

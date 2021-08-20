@@ -1,0 +1,15 @@
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/Interfaces/bin/Debug/net5.0/Interfaces.deps.json
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/Interfaces/bin/Debug/net5.0/Interfaces.runtimeconfig.json
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/Interfaces/bin/Debug/net5.0/Interfaces.runtimeconfig.dev.json
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/Interfaces/bin/Debug/net5.0/Interfaces.dll
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/Interfaces/bin/Debug/net5.0/ref/Interfaces.dll
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/Interfaces/bin/Debug/net5.0/Interfaces.pdb
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/Interfaces/obj/Debug/net5.0/Interfaces.csprojAssemblyReference.cache
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/Interfaces/obj/Debug/net5.0/Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/Interfaces/obj/Debug/net5.0/Interfaces.AssemblyInfoInputs.cache
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/Interfaces/obj/Debug/net5.0/Interfaces.AssemblyInfo.cs
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/Interfaces/obj/Debug/net5.0/Interfaces.csproj.CoreCompileInputs.cache
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/Interfaces/obj/Debug/net5.0/Interfaces.dll
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/Interfaces/obj/Debug/net5.0/ref/Interfaces.dll
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/Interfaces/obj/Debug/net5.0/Interfaces.pdb
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/Interfaces/obj/Debug/net5.0/Interfaces.genruntimeconfig.cache

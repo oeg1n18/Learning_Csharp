@@ -1,0 +1,15 @@
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/DataTypes/obj/Debug/net5.0/DataTypes.csprojAssemblyReference.cache
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/DataTypes/obj/Debug/net5.0/DataTypes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/DataTypes/obj/Debug/net5.0/DataTypes.AssemblyInfoInputs.cache
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/DataTypes/obj/Debug/net5.0/DataTypes.AssemblyInfo.cs
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/DataTypes/obj/Debug/net5.0/DataTypes.csproj.CoreCompileInputs.cache
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/DataTypes/bin/Debug/net5.0/DataTypes.deps.json
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/DataTypes/bin/Debug/net5.0/DataTypes.runtimeconfig.json
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/DataTypes/bin/Debug/net5.0/DataTypes.runtimeconfig.dev.json
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/DataTypes/bin/Debug/net5.0/DataTypes.dll
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/DataTypes/bin/Debug/net5.0/ref/DataTypes.dll
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/DataTypes/bin/Debug/net5.0/DataTypes.pdb
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/DataTypes/obj/Debug/net5.0/DataTypes.dll
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/DataTypes/obj/Debug/net5.0/ref/DataTypes.dll
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/DataTypes/obj/Debug/net5.0/DataTypes.pdb
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/DataTypes/obj/Debug/net5.0/DataTypes.genruntimeconfig.cache

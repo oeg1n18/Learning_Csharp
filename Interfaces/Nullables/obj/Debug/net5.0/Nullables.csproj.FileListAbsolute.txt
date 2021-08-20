@@ -1,0 +1,15 @@
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/Nullables/obj/Debug/net5.0/Nullables.csprojAssemblyReference.cache
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/Nullables/obj/Debug/net5.0/Nullables.GeneratedMSBuildEditorConfig.editorconfig
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/Nullables/obj/Debug/net5.0/Nullables.AssemblyInfoInputs.cache
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/Nullables/obj/Debug/net5.0/Nullables.AssemblyInfo.cs
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/Nullables/obj/Debug/net5.0/Nullables.csproj.CoreCompileInputs.cache
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/Nullables/bin/Debug/net5.0/Nullables.deps.json
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/Nullables/bin/Debug/net5.0/Nullables.runtimeconfig.json
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/Nullables/bin/Debug/net5.0/Nullables.runtimeconfig.dev.json
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/Nullables/bin/Debug/net5.0/Nullables.dll
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/Nullables/bin/Debug/net5.0/ref/Nullables.dll
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/Nullables/bin/Debug/net5.0/Nullables.pdb
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/Nullables/obj/Debug/net5.0/Nullables.dll
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/Nullables/obj/Debug/net5.0/ref/Nullables.dll
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/Nullables/obj/Debug/net5.0/Nullables.pdb
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/Nullables/obj/Debug/net5.0/Nullables.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/Enums/obj/Debug/net5.0/Enums.csprojAssemblyReference.cache
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/Enums/obj/Debug/net5.0/Enums.GeneratedMSBuildEditorConfig.editorconfig
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/Enums/obj/Debug/net5.0/Enums.AssemblyInfoInputs.cache
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/Enums/obj/Debug/net5.0/Enums.AssemblyInfo.cs
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/Enums/obj/Debug/net5.0/Enums.csproj.CoreCompileInputs.cache
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/Enums/bin/Debug/net5.0/Enums.deps.json
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/Enums/bin/Debug/net5.0/Enums.runtimeconfig.json
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/Enums/bin/Debug/net5.0/Enums.runtimeconfig.dev.json
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/Enums/bin/Debug/net5.0/Enums.dll
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/Enums/bin/Debug/net5.0/ref/Enums.dll
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/Enums/bin/Debug/net5.0/Enums.pdb
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/Enums/obj/Debug/net5.0/Enums.dll
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/Enums/obj/Debug/net5.0/ref/Enums.dll
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/Enums/obj/Debug/net5.0/Enums.pdb
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/Enums/obj/Debug/net5.0/Enums.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/Polymorphism/obj/Debug/net5.0/Polymorphism.csprojAssemblyReference.cache
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/Polymorphism/obj/Debug/net5.0/Polymorphism.GeneratedMSBuildEditorConfig.editorconfig
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/Polymorphism/obj/Debug/net5.0/Polymorphism.AssemblyInfoInputs.cache
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/Polymorphism/obj/Debug/net5.0/Polymorphism.AssemblyInfo.cs
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/Polymorphism/obj/Debug/net5.0/Polymorphism.csproj.CoreCompileInputs.cache
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/Polymorphism/bin/Debug/net5.0/Polymorphism.deps.json
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/Polymorphism/bin/Debug/net5.0/Polymorphism.runtimeconfig.json
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/Polymorphism/bin/Debug/net5.0/Polymorphism.runtimeconfig.dev.json
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/Polymorphism/bin/Debug/net5.0/Polymorphism.dll
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/Polymorphism/bin/Debug/net5.0/ref/Polymorphism.dll
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/Polymorphism/bin/Debug/net5.0/Polymorphism.pdb
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/Polymorphism/obj/Debug/net5.0/Polymorphism.dll
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/Polymorphism/obj/Debug/net5.0/ref/Polymorphism.dll
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/Polymorphism/obj/Debug/net5.0/Polymorphism.pdb
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/Polymorphism/obj/Debug/net5.0/Polymorphism.genruntimeconfig.cache

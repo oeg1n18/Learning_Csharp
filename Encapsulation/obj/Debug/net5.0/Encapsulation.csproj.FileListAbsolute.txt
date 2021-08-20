@@ -1,0 +1,15 @@
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/Encapsulation/obj/Debug/net5.0/Encapsulation.csprojAssemblyReference.cache
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/Encapsulation/obj/Debug/net5.0/Encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/Encapsulation/obj/Debug/net5.0/Encapsulation.AssemblyInfoInputs.cache
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/Encapsulation/obj/Debug/net5.0/Encapsulation.AssemblyInfo.cs
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/Encapsulation/obj/Debug/net5.0/Encapsulation.csproj.CoreCompileInputs.cache
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/Encapsulation/bin/Debug/net5.0/Encapsulation.deps.json
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/Encapsulation/bin/Debug/net5.0/Encapsulation.runtimeconfig.json
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/Encapsulation/bin/Debug/net5.0/Encapsulation.runtimeconfig.dev.json
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/Encapsulation/bin/Debug/net5.0/Encapsulation.dll
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/Encapsulation/bin/Debug/net5.0/ref/Encapsulation.dll
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/Encapsulation/bin/Debug/net5.0/Encapsulation.pdb
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/Encapsulation/obj/Debug/net5.0/Encapsulation.dll
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/Encapsulation/obj/Debug/net5.0/ref/Encapsulation.dll
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/Encapsulation/obj/Debug/net5.0/Encapsulation.pdb
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/Encapsulation/obj/Debug/net5.0/Encapsulation.genruntimeconfig.cache

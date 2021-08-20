@@ -1,0 +1,15 @@
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/TypeConversion/obj/Debug/net5.0/TypeConversion.csprojAssemblyReference.cache
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/TypeConversion/obj/Debug/net5.0/TypeConversion.GeneratedMSBuildEditorConfig.editorconfig
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/TypeConversion/obj/Debug/net5.0/TypeConversion.AssemblyInfoInputs.cache
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/TypeConversion/obj/Debug/net5.0/TypeConversion.AssemblyInfo.cs
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/TypeConversion/obj/Debug/net5.0/TypeConversion.csproj.CoreCompileInputs.cache
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/TypeConversion/bin/Debug/net5.0/TypeConversion.deps.json
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/TypeConversion/bin/Debug/net5.0/TypeConversion.runtimeconfig.json
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/TypeConversion/bin/Debug/net5.0/TypeConversion.runtimeconfig.dev.json
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/TypeConversion/bin/Debug/net5.0/TypeConversion.dll
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/TypeConversion/bin/Debug/net5.0/ref/TypeConversion.dll
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/TypeConversion/bin/Debug/net5.0/TypeConversion.pdb
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/TypeConversion/obj/Debug/net5.0/TypeConversion.dll
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/TypeConversion/obj/Debug/net5.0/ref/TypeConversion.dll
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/TypeConversion/obj/Debug/net5.0/TypeConversion.pdb
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/TypeConversion/obj/Debug/net5.0/TypeConversion.genruntimeconfig.cache
