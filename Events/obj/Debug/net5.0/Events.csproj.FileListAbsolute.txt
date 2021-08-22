@@ -1,0 +1,15 @@
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/Learning_Csharp/Events/bin/Debug/net5.0/Events.deps.json
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/Learning_Csharp/Events/bin/Debug/net5.0/Events.runtimeconfig.json
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/Learning_Csharp/Events/bin/Debug/net5.0/Events.runtimeconfig.dev.json
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/Learning_Csharp/Events/bin/Debug/net5.0/Events.dll
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/Learning_Csharp/Events/bin/Debug/net5.0/ref/Events.dll
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/Learning_Csharp/Events/bin/Debug/net5.0/Events.pdb
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/Learning_Csharp/Events/obj/Debug/net5.0/Events.csprojAssemblyReference.cache
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/Learning_Csharp/Events/obj/Debug/net5.0/Events.GeneratedMSBuildEditorConfig.editorconfig
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/Learning_Csharp/Events/obj/Debug/net5.0/Events.AssemblyInfoInputs.cache
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/Learning_Csharp/Events/obj/Debug/net5.0/Events.AssemblyInfo.cs
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/Learning_Csharp/Events/obj/Debug/net5.0/Events.csproj.CoreCompileInputs.cache
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/Learning_Csharp/Events/obj/Debug/net5.0/Events.dll
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/Learning_Csharp/Events/obj/Debug/net5.0/ref/Events.dll
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/Learning_Csharp/Events/obj/Debug/net5.0/Events.pdb
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/Learning_Csharp/Events/obj/Debug/net5.0/Events.genruntimeconfig.cache

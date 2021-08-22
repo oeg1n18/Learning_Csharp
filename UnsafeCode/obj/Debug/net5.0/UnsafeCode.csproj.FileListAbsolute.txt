@@ -1,0 +1,5 @@
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/Learning_Csharp/UnsafeCode/obj/Debug/net5.0/UnsafeCode.csprojAssemblyReference.cache
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/Learning_Csharp/UnsafeCode/obj/Debug/net5.0/UnsafeCode.GeneratedMSBuildEditorConfig.editorconfig
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/Learning_Csharp/UnsafeCode/obj/Debug/net5.0/UnsafeCode.AssemblyInfoInputs.cache
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/Learning_Csharp/UnsafeCode/obj/Debug/net5.0/UnsafeCode.AssemblyInfo.cs
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/Learning_Csharp/UnsafeCode/obj/Debug/net5.0/UnsafeCode.csproj.CoreCompileInputs.cache
