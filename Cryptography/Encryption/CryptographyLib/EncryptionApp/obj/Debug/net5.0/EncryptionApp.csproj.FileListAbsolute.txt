@@ -1,0 +1,15 @@
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/Learning_Csharp/Encryption/CryptographyLib/EncryptionApp/bin/Debug/net5.0/EncryptionApp.deps.json
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/Learning_Csharp/Encryption/CryptographyLib/EncryptionApp/bin/Debug/net5.0/EncryptionApp.runtimeconfig.json
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/Learning_Csharp/Encryption/CryptographyLib/EncryptionApp/bin/Debug/net5.0/EncryptionApp.runtimeconfig.dev.json
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/Learning_Csharp/Encryption/CryptographyLib/EncryptionApp/bin/Debug/net5.0/EncryptionApp.dll
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/Learning_Csharp/Encryption/CryptographyLib/EncryptionApp/bin/Debug/net5.0/ref/EncryptionApp.dll
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/Learning_Csharp/Encryption/CryptographyLib/EncryptionApp/bin/Debug/net5.0/EncryptionApp.pdb
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/Learning_Csharp/Encryption/CryptographyLib/EncryptionApp/obj/Debug/net5.0/EncryptionApp.csprojAssemblyReference.cache
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/Learning_Csharp/Encryption/CryptographyLib/EncryptionApp/obj/Debug/net5.0/EncryptionApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/Learning_Csharp/Encryption/CryptographyLib/EncryptionApp/obj/Debug/net5.0/EncryptionApp.AssemblyInfoInputs.cache
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/Learning_Csharp/Encryption/CryptographyLib/EncryptionApp/obj/Debug/net5.0/EncryptionApp.AssemblyInfo.cs
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/Learning_Csharp/Encryption/CryptographyLib/EncryptionApp/obj/Debug/net5.0/EncryptionApp.csproj.CoreCompileInputs.cache
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/Learning_Csharp/Encryption/CryptographyLib/EncryptionApp/obj/Debug/net5.0/EncryptionApp.dll
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/Learning_Csharp/Encryption/CryptographyLib/EncryptionApp/obj/Debug/net5.0/ref/EncryptionApp.dll
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/Learning_Csharp/Encryption/CryptographyLib/EncryptionApp/obj/Debug/net5.0/EncryptionApp.pdb
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/Learning_Csharp/Encryption/CryptographyLib/EncryptionApp/obj/Debug/net5.0/EncryptionApp.genruntimeconfig.cache

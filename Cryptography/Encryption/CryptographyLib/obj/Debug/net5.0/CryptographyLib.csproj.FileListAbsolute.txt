@@ -1,0 +1,12 @@
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/Learning_Csharp/Encryption/CryptographyLib/bin/Debug/net5.0/CryptographyLib.deps.json
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/Learning_Csharp/Encryption/CryptographyLib/bin/Debug/net5.0/CryptographyLib.dll
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/Learning_Csharp/Encryption/CryptographyLib/bin/Debug/net5.0/ref/CryptographyLib.dll
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/Learning_Csharp/Encryption/CryptographyLib/bin/Debug/net5.0/CryptographyLib.pdb
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/Learning_Csharp/Encryption/CryptographyLib/obj/Debug/net5.0/CryptographyLib.csprojAssemblyReference.cache
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/Learning_Csharp/Encryption/CryptographyLib/obj/Debug/net5.0/CryptographyLib.GeneratedMSBuildEditorConfig.editorconfig
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/Learning_Csharp/Encryption/CryptographyLib/obj/Debug/net5.0/CryptographyLib.AssemblyInfoInputs.cache
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/Learning_Csharp/Encryption/CryptographyLib/obj/Debug/net5.0/CryptographyLib.AssemblyInfo.cs
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/Learning_Csharp/Encryption/CryptographyLib/obj/Debug/net5.0/CryptographyLib.csproj.CoreCompileInputs.cache
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/Learning_Csharp/Encryption/CryptographyLib/obj/Debug/net5.0/CryptographyLib.dll
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/Learning_Csharp/Encryption/CryptographyLib/obj/Debug/net5.0/ref/CryptographyLib.dll
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/Learning_Csharp/Encryption/CryptographyLib/obj/Debug/net5.0/CryptographyLib.pdb

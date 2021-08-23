@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference
+      Include = "/Users/olivergrainge/OneDrive - Grainge/Personal_studies/Learning_Csharp/Cryptography/Encryption/CryptographyLib/Hashing/CyrptographyLib/CyrptographyLib.csproj" />
+  </ItemGroup>
+
+</Project>
