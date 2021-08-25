@@ -1,0 +1,15 @@
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/Learning_Csharp/Basics/ConsoleApplications/ExploringConsole/obj/Debug/net5.0/ExploringConsole.csprojAssemblyReference.cache
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/Learning_Csharp/Basics/ConsoleApplications/ExploringConsole/obj/Debug/net5.0/ExploringConsole.GeneratedMSBuildEditorConfig.editorconfig
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/Learning_Csharp/Basics/ConsoleApplications/ExploringConsole/obj/Debug/net5.0/ExploringConsole.AssemblyInfoInputs.cache
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/Learning_Csharp/Basics/ConsoleApplications/ExploringConsole/obj/Debug/net5.0/ExploringConsole.AssemblyInfo.cs
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/Learning_Csharp/Basics/ConsoleApplications/ExploringConsole/obj/Debug/net5.0/ExploringConsole.csproj.CoreCompileInputs.cache
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/Learning_Csharp/Basics/ConsoleApplications/ExploringConsole/bin/Debug/net5.0/ExploringConsole.deps.json
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/Learning_Csharp/Basics/ConsoleApplications/ExploringConsole/bin/Debug/net5.0/ExploringConsole.runtimeconfig.json
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/Learning_Csharp/Basics/ConsoleApplications/ExploringConsole/bin/Debug/net5.0/ExploringConsole.runtimeconfig.dev.json
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/Learning_Csharp/Basics/ConsoleApplications/ExploringConsole/bin/Debug/net5.0/ExploringConsole.dll
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/Learning_Csharp/Basics/ConsoleApplications/ExploringConsole/bin/Debug/net5.0/ref/ExploringConsole.dll
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/Learning_Csharp/Basics/ConsoleApplications/ExploringConsole/bin/Debug/net5.0/ExploringConsole.pdb
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/Learning_Csharp/Basics/ConsoleApplications/ExploringConsole/obj/Debug/net5.0/ExploringConsole.dll
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/Learning_Csharp/Basics/ConsoleApplications/ExploringConsole/obj/Debug/net5.0/ref/ExploringConsole.dll
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/Learning_Csharp/Basics/ConsoleApplications/ExploringConsole/obj/Debug/net5.0/ExploringConsole.pdb
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/Learning_Csharp/Basics/ConsoleApplications/ExploringConsole/obj/Debug/net5.0/ExploringConsole.genruntimeconfig.cache

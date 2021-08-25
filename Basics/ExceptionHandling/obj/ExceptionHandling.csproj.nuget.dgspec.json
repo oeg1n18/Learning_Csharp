@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/ExceptionHandling/ExceptionHandling.csproj": {}
+    "/Users/olivergrainge/OneDrive - Grainge/Personal_studies/Learning_Csharp/Basics/ExceptionHandling/ExceptionHandling.csproj": {}
   },
   "projects": {
-    "/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/ExceptionHandling/ExceptionHandling.csproj": {
+    "/Users/olivergrainge/OneDrive - Grainge/Personal_studies/Learning_Csharp/Basics/ExceptionHandling/ExceptionHandling.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/ExceptionHandling/ExceptionHandling.csproj",
+        "projectUniqueName": "/Users/olivergrainge/OneDrive - Grainge/Personal_studies/Learning_Csharp/Basics/ExceptionHandling/ExceptionHandling.csproj",
         "projectName": "ExceptionHandling",
-        "projectPath": "/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/ExceptionHandling/ExceptionHandling.csproj",
+        "projectPath": "/Users/olivergrainge/OneDrive - Grainge/Personal_studies/Learning_Csharp/Basics/ExceptionHandling/ExceptionHandling.csproj",
         "packagesPath": "/Users/olivergrainge/.nuget/packages/",
-        "outputPath": "/Users/olivergrainge/OneDrive - Grainge/Personal_studies/C#/ExceptionHandling/obj/",
+        "outputPath": "/Users/olivergrainge/OneDrive - Grainge/Personal_studies/Learning_Csharp/Basics/ExceptionHandling/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/olivergrainge/.nuget/NuGet/NuGet.Config"

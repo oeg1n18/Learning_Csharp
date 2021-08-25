@@ -1,0 +1,12 @@
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/Learning_Csharp/ClassLibrary/Classlib/obj/Debug/net5.0/Classlib.csprojAssemblyReference.cache
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/Learning_Csharp/ClassLibrary/Classlib/obj/Debug/net5.0/Classlib.GeneratedMSBuildEditorConfig.editorconfig
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/Learning_Csharp/ClassLibrary/Classlib/obj/Debug/net5.0/Classlib.AssemblyInfoInputs.cache
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/Learning_Csharp/ClassLibrary/Classlib/obj/Debug/net5.0/Classlib.AssemblyInfo.cs
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/Learning_Csharp/ClassLibrary/Classlib/obj/Debug/net5.0/Classlib.csproj.CoreCompileInputs.cache
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/Learning_Csharp/ClassLibrary/Classlib/bin/Debug/net5.0/Classlib.deps.json
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/Learning_Csharp/ClassLibrary/Classlib/bin/Debug/net5.0/Classlib.dll
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/Learning_Csharp/ClassLibrary/Classlib/bin/Debug/net5.0/ref/Classlib.dll
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/Learning_Csharp/ClassLibrary/Classlib/bin/Debug/net5.0/Classlib.pdb
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/Learning_Csharp/ClassLibrary/Classlib/obj/Debug/net5.0/Classlib.dll
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/Learning_Csharp/ClassLibrary/Classlib/obj/Debug/net5.0/ref/Classlib.dll
+/Users/olivergrainge/OneDrive - Grainge/Personal_studies/Learning_Csharp/ClassLibrary/Classlib/obj/Debug/net5.0/Classlib.pdb

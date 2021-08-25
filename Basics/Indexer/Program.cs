@@ -13,6 +13,10 @@ namespace IndexerApplication {
          for (int i = 0; i < size; i++)
          namelist[i] = "N. A.";
       }
+      
+      
+      // An indexer allows you to execute code when accesseing or 
+      // setting a member of the index
       public string this[int index] {
          get {
             string tmp;
@@ -20,7 +24,7 @@ namespace IndexerApplication {
             if( index >= 0 && index <= size-1 ) {
                tmp = namelist[index];
             } else {
-               tmp = "";
+               tmp = "nothing";
             }
             
             return ( tmp );
@@ -31,8 +35,19 @@ namespace IndexerApplication {
             }
          }
       }
+
+
+
+
+
+
+
+   
+
       static void Main(string[] args) {
          IndexedNames names = new IndexedNames();
+         // allows you to access members of the array from the class level 
+         // using the object name.
          names[0] = "Zara";
          names[1] = "Riz";
          names[2] = "Nuha";
@@ -41,9 +56,14 @@ namespace IndexerApplication {
          names[5] = "Sunil";
          names[6] = "Rubic";
          
-         for ( int i = 0; i < IndexedNames.size; i++ ) {
+         for ( int i = 0; i < IndexedNames.size+1; i++ ) {
             Console.WriteLine(names[i]);
          }
+
+
+         Console.WriteLine(); 
+
+       
          Console.ReadKey();
       }
    }

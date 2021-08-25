@@ -1,5 +1,5 @@
 ﻿using System;
-
+#nullable disable
 namespace DataTypes
 {
     class Program
@@ -21,6 +21,14 @@ namespace DataTypes
             uint shortish_int = 12; //32-bit unsigned int
             ulong long_unsigned = 28; //64-bit unsigned integer type
             ushort short_unisgned = 32; //16-bit unsigned integer type 
+
+            // Dynamic types can store any type of data, more than object, its 
+            // flexibility comes at the cost of performance. 
+
+            dynamic anotherName = "Ahmed";
+
+            // To enable nullable and non-nullable reference you can use the following in the header
+            // #nullable disable
         
 
         }

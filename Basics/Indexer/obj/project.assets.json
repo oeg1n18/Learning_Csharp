@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/olivergrainge/OneDrive - Grainge/Personal_studies/Learning_Csharp/Indexer/Indexer.csproj",
+      "projectUniqueName": "/Users/olivergrainge/OneDrive - Grainge/Personal_studies/Learning_Csharp/Basics/Indexer/Indexer.csproj",
       "projectName": "Indexer",
-      "projectPath": "/Users/olivergrainge/OneDrive - Grainge/Personal_studies/Learning_Csharp/Indexer/Indexer.csproj",
+      "projectPath": "/Users/olivergrainge/OneDrive - Grainge/Personal_studies/Learning_Csharp/Basics/Indexer/Indexer.csproj",
       "packagesPath": "/Users/olivergrainge/.nuget/packages/",
-      "outputPath": "/Users/olivergrainge/OneDrive - Grainge/Personal_studies/Learning_Csharp/Indexer/obj/",
+      "outputPath": "/Users/olivergrainge/OneDrive - Grainge/Personal_studies/Learning_Csharp/Basics/Indexer/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/olivergrainge/.nuget/NuGet/NuGet.Config"

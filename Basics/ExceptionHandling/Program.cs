@@ -1,4 +1,5 @@
 ﻿using System;
+using static System.Console;
 
 namespace ExceptionHandling
 {
@@ -17,8 +18,24 @@ namespace ExceptionHandling
             if(temperature == 0) {
                 throw (new TempIsZeroException("Zero Temperature found"));
             } else {
-                Console.WriteLine("Temperature:{0}", temperature);
+                WriteLine("Temperature:{0}", temperature);
             }
+        }
+
+        public void HandleAllExceptions() {
+                WriteLine(@"Please Enter your age");
+                var input = ReadLine(); 
+
+            
+                //Catching all exceptions 
+                try {
+                    int age = int.Parse(input);
+                    WriteLine($"You are {age} years old");
+
+                } catch (Exception ex) {
+                    WriteLine($"{ex.GetType()} says {ex.Message}");
+                }
+
         }
     }
     
@@ -68,7 +85,7 @@ namespace ExceptionHandling
             }
         
 
-
+            temp.HandleAllExceptions();
 
         }
     }
